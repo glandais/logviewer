@@ -25,7 +25,7 @@
 		<repository>
 			<id>LambdaJ</id>
 			<name>LambdaJ</name>
-			<url>http://code.google.com/p/lambdaj/source/browse/repo/releases/</url>
+			<url>https://lambdaj.googlecode.com/svn/repo/releases/</url>
 		</repository>
 	</repositories>
 
